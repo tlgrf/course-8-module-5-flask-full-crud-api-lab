@@ -16,7 +16,7 @@ This project implements a simple Flask-based RESTful API that supports full CRUD
 - [Endpoints](#endpoints)  
 
 ## Demo
-![demo of API endpoints](demo.png)
+![Demo](demo.png)
 
 ---
 
